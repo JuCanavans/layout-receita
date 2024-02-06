@@ -1,6 +1,5 @@
 <h1 align="center">Layout de Receita</h1>
 
-
 ![modelo2](https://github.com/JuCanavans/layout-receita/assets/103950621/7749db5f-320c-4e38-befa-39d7f2725be3)
 
 
@@ -11,4 +10,4 @@
 ## 🌐 Website
 Visit the [Carta de aniversario](https://carta-de-aniversario-delta.vercel.app/) to explore the live site.
 
-<p align="center">Desenvoldedor Julio Cesar.</p>
+### <p align="center">Desenvoldedor Julio Cesar.</p>
