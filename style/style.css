@@ -32,9 +32,7 @@ body{
 
 .apresentacao-imagem{
     margin-top: 7%;
-    align-items: center;
-    justify-content: center;
-    border-radius: 21px;
+    border-radius: 17px;
     width: 550px;
 }
 
@@ -49,7 +47,7 @@ body{
 .apresentacao-prato-titulo{
     font-family: var(--fonte-primaria);
     color: #2f2f2f;
-    font-size: 35px;
+    font-size: 2.2rem;
     font-weight: 700;
 }
 
@@ -72,7 +70,7 @@ body{
 .apresentacao-duracao-tempo{
     padding-bottom: 2%;
     font-family: var(--fonte-primaria);
-    font-size: 20px;
+    font-size: 1.25rem;
     font-weight: 700;
     color: #6d2744;
 }
@@ -97,7 +95,7 @@ body{
 
 .apresentacao-titulo{
     font-family: var(--fonte-primaria);
-    font-size: 32px;
+    font-size: 2rem;
     padding-bottom: 4%;
     font-weight: 600;
     color: #7d4735;
@@ -137,4 +135,10 @@ body{
     font-weight: 600;
     font-family: var(--fonte-primaria);
     padding: 4%;
+}
+
+@media (max-width: 610px){
+    .apresentacao-imagem{
+        width: 100%;
+    }
 }
